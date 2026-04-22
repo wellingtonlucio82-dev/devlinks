@@ -6,22 +6,22 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(/assets/bag-mobile.jpg);
+  --bg-url: url(./assets/bag-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highligth-color: rgba(2550, 255, 255, 0.02);
-  --swith-br-url: url(/assets/moon-star.svg);
+  --swith-br-url: url(./assets/moon-star.svg);
 }
 
 .ligth {
   --text-color: black;
-  --bg-url: url(/assets/bag-mobile.jpg);
+  --bg-url: url(./assets/bag-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highligth-color: rgba(2550, 255, 255, 0.02);
-  --swith-br-url: url(/assets/moon-star.svg);
+  --swith-br-url: url(./assets/moon-star.svg);
 }
 
 body {
